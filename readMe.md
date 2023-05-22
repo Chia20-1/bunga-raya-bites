@@ -6,7 +6,7 @@ Feel free to check on the end result here: https://chia20-1.github.io/bunga-raya
 
 Eraser Link for project breakdown: https://app.eraser.io/workspace/NGPwxyXhDJZpwzjtLPa0?origin=share
 
-GitHub deployed link: #
+GitHub deployed link: https://chia20-1.github.io/bunga-raya-bites/
 
 Project Breakdown:
 
